@@ -1,0 +1,134 @@
+body {
+    background:  pink;
+    margin: 0;
+    width: 100%;
+
+    
+}
+.belly{
+    min-height: 80px;
+    width: 98%;
+    background: white;
+    margin-left: 1%;
+}
+
+header {
+    min-height: 60px;
+    min-width: 100%;
+    
+    
+    background: blue;
+    display: flex;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    justify-content: center;
+    color: white;
+    align-content: space-between;
+
+
+
+
+}
+
+.text {
+    display: flex;
+    justify-content: ;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    
+
+
+}
+
+.textunderline {
+    font-style: underline;
+    font-size: 10px;
+    font-variant: small-caps;
+    font-weight: bold;
+    margin-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.x {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.topbar {
+    min-height: 80px;
+    width: 98%;
+    background: white;
+    margin-left: 1%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 60px;
+
+}
+
+.icon {
+    width: auto;
+    height: 25px;
+    
+}
+
+.designmat {
+    font-size: 15px;
+    font-variant: small-caps;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+.books {
+    font-size: 15px;
+    font-variant: small-caps;
+    font-family: Arial, Helvetica, sans-serif;
+}
+ 
+.podcast {
+    font-size: 15px;
+    font-variant: small-caps;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.workshops {
+    font-size: 15px;
+    font-variant: small-caps;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.conversations{
+    font-size: 15px;
+    font-variant: small-caps;
+    font-family: Arial, Helvetica, sans-serif;
+}
+button{
+    height: 3rem;
+    width: 6rem;
+    background: rgb(247, 19, 133);
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    border: none;
+    border-radius: 2rem;
+}
+.inlogo{
+    height: 2rem;
+    width: 2rem;
+    background: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.learn{
+    height: 20rem;
+    width: 98%;
+    background: white;
+    margin-left: 1%;
+    display: flex;
+
+}
+
+.best{
+    background: brown;
+}
+
